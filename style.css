@@ -1,0 +1,33 @@
+body {
+    background-color: honeydew;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+#paieska {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+img {
+    width: 290px;
+    height: 200px;
+}
+#vieta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div {
+    margin: 5px;
+}
+#button1 {
+    margin-top: 50px;
+}
+#regionoMyg {
+    margin-right: 50px;
+}
+#visosSalys {
+    margin-right: 50px;
+}
